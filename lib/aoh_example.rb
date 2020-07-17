@@ -23,7 +23,7 @@ def literal_aoh
 end
 
 def aoh_lookup(aoh, row, key)
-  PAT_M[0][:occupation]
+  PAT_M[2][:occupation]
 end
 
 def aoh_update(aoh, row, key, new_value)
